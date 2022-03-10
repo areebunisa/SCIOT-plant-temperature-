@@ -44,6 +44,13 @@ npm install amqplib
 npm install request
 
 
+
+architecture Diagram 
+![Architecture SCIOT](https://user-images.githubusercontent.com/77137106/157632668-f59db4ce-f91e-4214-9a57-dc30ae606c81.png)
+
+
+
+
 Docker
 
 
