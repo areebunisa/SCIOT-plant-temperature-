@@ -30,22 +30,31 @@ Pre requisites of this project
 On windows desktop download docker and by using command line we can setup nuclio dashboard and rabbit MQ
 
 installation of libraries
+
 Docker
+
 Nuclio dashboard
+
 RabbitMQ
+
 Node.js
+
 IFTT
+
 MQTIZER - Free MQTT Client
 
 
 Install these libraries by using command prompt
+
 npm install mqtt
+
 npm install amqplib
+
 npm install request
 
 
 
-architecture Diagram 
+Architecture Diagram 
 ![Architecture SCIOT](https://user-images.githubusercontent.com/77137106/157632668-f59db4ce-f91e-4214-9a57-dc30ae606c81.png)
 
 
@@ -55,12 +64,21 @@ Docker
 
 
 Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
+
 Docker provides tooling and a platform to manage the lifecycle of your containers.
+
 Develop your application and its supporting components using containers.
+
 The container becomes the unit for distributing and testing your application.
-When you’re ready, deploy your application into your production environment
-Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
+
+When you’re ready, deploy your application into your production environment.
+
+Docker is an open platform for developing, shipping, and running applications. 
+
+Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
+
 Download docker setup from this link
+
 https://www.docker.com/products/docker-desktop
 
 
